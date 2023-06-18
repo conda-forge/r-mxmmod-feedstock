@@ -1,11 +1,11 @@
-About r-mxmmod
-==============
+About r-mxmmod-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mxmmod-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/khusmann/mxmmod
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mxmmod-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a convenient interface in 'OpenMx' for building Estabrook's (2015) <doi:10.1037/a0034523> Measurement Model of Derivatives (MMOD).
 
